@@ -1,0 +1,6 @@
+POST http://localhost:3000/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "http://www.facebook.com/story.php?story_fbid=3227937780552623&id=398110230202073&scmts=scwspsdd&extid=XL2NF0QSlBVBPPd7"
+}
